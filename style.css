@@ -1,0 +1,23 @@
+/* General Styling */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0a1215;
+  /* Dark background for body */
+  font-family: Arial, sans-serif;
+  color: #9697a6;
+  /* Light gray text color */
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 4px solid #786969;
+  /* Subtle gray border */
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(86, 14, 14, 0.5);
+  background-color: #000000;
+  /* Set canvas background color to black */
+}
